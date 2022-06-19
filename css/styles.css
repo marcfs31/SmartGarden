@@ -1,0 +1,26 @@
+@font-face {
+  font-family: BebasNeue;
+  src: url(/assets/fonts/BebasNeue-Regular.ttf);
+}
+.bold {
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+.first {
+  padding-top: 20px;
+}
+.second {
+  padding-top: 31px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  font-family: BebasNeue;
+}
